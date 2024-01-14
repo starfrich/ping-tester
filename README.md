@@ -28,7 +28,8 @@ URLs for addresses with response times below 100 milliseconds are added to ping_
 
 **Example**
 
-![image](https://github.com/starfrich/ping-test/assets/119293469/c4f61439-6df2-4d85-aee6-b032a3c342fa)
+![image](https://github.com/starfrich/ping-tester/assets/119293469/4f2f5618-ede4-45c5-bf11-8815ad1da0d1)
+
 
 ## Note
 
